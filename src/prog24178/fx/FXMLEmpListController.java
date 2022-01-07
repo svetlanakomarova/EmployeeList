@@ -22,7 +22,7 @@ import komarovs.models.Employee;
 /**
  * FXML Controller class
  *
- * @author skoma
+ * @author skomarova
  */
 public class FXMLEmpListController implements Initializable {
 
