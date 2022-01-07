@@ -1,0 +1,9 @@
+Mary Smith|24.500000|12.000000
+Sarra Peterson|17.750000|38.000000
+John Johnson|35.250000|40.000000
+Almira Bright|33.000000|20.500000
+Bob Simpson|45.000000|40.000000
+Svetlana Komarova|22.500000|38.000000
+Anton Kopytskiy|18.500000|22.000000
+Irina Yarmolik|14.500000|36.500000
+Anna Komarova|45.500000|40.000000
